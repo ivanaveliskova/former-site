@@ -1,2 +1,4 @@
-# former-site
-Previous Personal Site.
+smidra.github.io
+================
+
+Personal Website
